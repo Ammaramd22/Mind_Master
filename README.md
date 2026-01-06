@@ -1,13 +1,4 @@
-Great 👍 I checked your repo **Mind_Master** (it’s on `main`).
-Below is a **ready-to-use README.md** plus a **recommended project structure/components** you can add.
 
----
-
-## 📄 README.md (Copy & Paste)
-
-Create a file called **`README.md`** in the root of your project and paste this:
-
-```md
 # 🧠 Mind Master
 
 Mind Master is a modern web application designed to enhance learning, focus, and mental performance through interactive tools and intelligent features.
